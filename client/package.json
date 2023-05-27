@@ -7,12 +7,14 @@
     "node": "16.x"
   },
   "dependencies": {
+    "@redux-devtools/extension": "^3.2.5",
     "@testing-library/jest-dom": "^5.13.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "^5.0.1",
+    "thunk": "^0.0.1",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
